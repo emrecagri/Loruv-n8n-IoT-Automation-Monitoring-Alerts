@@ -5,7 +5,11 @@
 <p align="center">n8n • IoT • Raspberry Pi • BLE • REST API • Docker • Telegram • Monitoring • Automation</p>
 
 <p aling="center">
-  <a href="#-türkçe">🇹🇷 Türkçe</a>&nbsp;•&nbsp;<a href="#-english">🇬🇧 English</a>&nbsp;•&nbsp;<a href="https://emrecb.com/loruv-ortam-izleme-sistemi-n8n-raspberry-pi-ble-sensorler-ve-telegram-ile-akilli-sicaklik-nem-alarm-otomasyonu/">📝 Blog Yazısı / Blog Post</a>
+  <a href="#-türkçe">🇹🇷 Türkçe</a>
+  &nbsp;•&nbsp;
+  <a href="#-english">🇬🇧 English</a>
+  &nbsp;•&nbsp;
+  <a href="https://emrecb.com/loruv-ortam-izleme-sistemi-n8n-raspberry-pi-ble-sensorler-ve-telegram-ile-akilli-sicaklik-nem-alarm-otomasyonu/">📝 Blog Yazısı / Blog Post</a>
 </p>
                                                                                                                     
 ---

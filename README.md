@@ -1,20 +1,14 @@
 # Loruv n8n IoT Automation Monitoring & Alerts
 
-<p align="center">
-  <strong>Production-oriented n8n IoT automation for environmental monitoring, sensor health, fault-tolerant retries and intelligent Telegram alerting.</strong>
-</p>
+<p align="center"><strong>Production-oriented n8n IoT automation for environmental monitoring, sensor health, fault-tolerant retries and intelligent Telegram alerting.</strong></p>
 
-<p align="center">
-  n8n • IoT • Raspberry Pi • BLE • REST API • Docker • Telegram • Monitoring • Automation
-</p>
+<p align="center">n8n • IoT • Raspberry Pi • BLE • REST API • Docker • Telegram • Monitoring • Automation</p>
 
-<p align="center">
-  <a href="#-türkçe">🇹🇷 Türkçe</a>
-  &nbsp;•&nbsp;
-  <a href="#-english">🇬🇧 English</a>
-  &nbsp;•&nbsp;
-  <a href="https://emrecb.com/loruv-ortam-izleme-sistemi-n8n-raspberry-pi-ble-sensorler-ve-telegram-ile-akilli-sicaklik-nem-alarm-otomasyonu/>📝 Blog Yazısı / Blog Post</a>
-</p>
+<p align="center"><a href="#-türkçe">🇹🇷 Türkçe</a>&nbsp;•&nbsp;<a href="#-english">🇬🇧 English</a>&nbsp;•&nbsp;<a href="https://emrecb.com/loruv-ortam-izleme-sistemi-n8n-raspberry-pi-ble-sensorler-ve-telegram-ile-akilli-sicaklik-nem-alarm-otomasyonu/>📝 Blog Yazısı / Blog Post</a></p>
+
+---
+
+<img src="screenshots/0.png" width="800"><img src="Screenshots/1.png" width="800">
 
 ---
 

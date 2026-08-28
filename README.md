@@ -10,11 +10,12 @@
   <a href="#-english">🇬🇧 English</a>
   &nbsp;•&nbsp;
   <a href="https://emrecb.com/loruv-ortam-izleme-sistemi-n8n-raspberry-pi-ble-sensorler-ve-telegram-ile-akilli-sicaklik-nem-alarm-otomasyonu/">📝 Blog Yazısı / Blog Post</a>
+  &nbsp;•&nbsp;
+  [▶️ Videoyu izle / Play Video](Screenshots/video1.mp4)
 </p>
                                                                                                                     
 ---
 
-[▶️ Videoyu izle / Play Video](Screenshots/video1.mp4)
 <img src="Screenshots/n8n_iot_alerts.png" width="800">
 <img src="Screenshots/0.png" width="800">
 <img src="Screenshots/1.png" width="800">

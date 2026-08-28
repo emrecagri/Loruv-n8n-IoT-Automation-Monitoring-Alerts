@@ -11,7 +11,7 @@
   &nbsp;•&nbsp;
   <a href="https://emrecb.com/loruv-ortam-izleme-sistemi-n8n-raspberry-pi-ble-sensorler-ve-telegram-ile-akilli-sicaklik-nem-alarm-otomasyonu/">📝 Blog Yazısı / Blog Post</a>
   &nbsp;•&nbsp;
-  [▶️ Videoyu izle / Play Video](Screenshots/video1.mp4)
+  <a href="Screenshots/video1.mp4">▶️ Videoyu izle / Play Video</a>
 </p>
                                                                                                                     
 ---

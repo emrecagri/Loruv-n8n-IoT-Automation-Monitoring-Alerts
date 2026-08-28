@@ -9,7 +9,7 @@
   &nbsp;•&nbsp;
   <a href="#-english">🇬🇧 English</a>
   &nbsp;•&nbsp;
-  <a href="https://emrecb.com/loruv-ortam-izleme-sistemi-n8n-raspberry-pi-ble-sensorler-ve-telegram-ile-akilli-sicaklik-nem-alarm-otomasyonu/">📝 Blog Yazısı / Blog Post</a>
+  <a href="https://emrecb.com/blog/loruv-ortam-izleme-sistemi-n8n-raspberry-pi-ble-sensorler-ve-telegram-ile-akilli-sicaklik-nem-alarm-otomasyonu/">📝 Blog Yazısı / Blog Post</a>
   &nbsp;•&nbsp;
   <a href="Screenshots/video1.mp4">▶️ Videoyu izle / Play Video</a>
 </p>

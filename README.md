@@ -14,9 +14,14 @@
                                                                                                                     
 ---
 
+<video src="Screenshots/video1.mp4" controls width="800"></video>
 <img src="Screenshots/n8n_iot_alerts.png" width="800">
 <img src="Screenshots/0.png" width="800">
 <img src="Screenshots/1.png" width="800">
+<img src="Screenshots/2.png" width="800">
+<img src="Screenshots/3.png" width="800">
+<img src="Screenshots/4.png" width="800">
+<img src="Screenshots/5.png" width="800">
 
 ---
 
